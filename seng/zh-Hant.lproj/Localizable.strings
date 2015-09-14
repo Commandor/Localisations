@@ -55,7 +55,7 @@
 "op_SWIPE_UP" = "主畫面向上滑動的動作";
 "op_QUIT_ALL_APPS" = "關閉所有應用程式";
 "op_SHOW_ACTION_MENU" = "顯示動作選單";
-"op_RESPRING" = "Respring";
+"op_RESPRING" = "重新啟動主畫面";
 "op_LOCK" = "鎖定裝置";
 "op_SHUT_DOWN" = "關機";
 "op_NONE" = "不做任何動作";
